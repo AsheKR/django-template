@@ -40,28 +40,3 @@ This bot are actually three bots into one. See the central page for further conf
 
 ## [Commit Guide](https://github.com/AsheKR/github-message-template)
 
-## Authors
-
-<table>
-<tr align="center">
-
-
-<td>
-
-Ashe
-
-<p align="center">
-<img src="" width="150" height="150" alt="Your Name Here (Insert Your Image Link In Src">
-</p>
-<p align="center">
-<a href="https://github.com/AsheKR">
-<img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/>
-</a>
-<a href="https://www.linkedin.com/in/%EA%B8%B8%EC%98%81-%EC%86%A1-519ab01aa/">
-<img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
-</td>
-
-</tr>
-</table>
