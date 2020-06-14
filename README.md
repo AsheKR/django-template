@@ -1,8 +1,8 @@
 <p align="center">
-  <img alt="Repository Template" title="Repository Template" src="./assets/logo.png" width="128">
+  <img alt="Django Template" title="Django Template" src="./assets/logo.png" width="128">
 </p>
 
-<h1 align="center">Repository Template</h1>
+<h1 align="center">Django Template</h1>
 
 <p align="center">
   <a href="#overview">Overview</a> |
@@ -11,21 +11,16 @@
 
 ## Overview
 
-anyone with access to the repository can generate a new repository with the same directory structure and files as your default branch.
+Django Template was designed to start Django project quickly
 
 ## Features
 
-- Git Attribute File
-- Git Ignore File
-- Changelog
-- Contributor Covenant Code of Conduct
-- Contributing Guidelines
-- License File
-- README File
-- GitHub Template
-	- Issue and Feature request Templates
-	- Pull Request Template
-- Github Bot Configuration
+## Update Related Project
+
+```shell
+# 1. github-template Repository
+git remote add template https://github.com/AsheKR/github-template.git
+```
 
 ## Bots
 
