@@ -6,9 +6,8 @@
 
 <p align="center">
   <a href="#overview">Overview</a> |
-  <a href="#instructions">Instructions</a> |
-  <a href="#authors">Authors</a> |
-  <a href="#licence">Licence</a>
+  <a href="#features">Features</a> |
+  <a href="#authors">Authors</a>
 </p>
 
 ## Overview
@@ -28,27 +27,6 @@ anyone with access to the repository can generate a new repository with the same
 	- Issue and Feature request Templates
 	- Pull Request Template
 - Github Bot Configuration
-
-## Community Health Files
-
-This template implements some of the possible [community health files](https://help.github.com/en/articles/creating-a-default-community-health-file-for-your-organization) supported by GitHub:
-
-| File                             | Implemented        | File                                     | Guide |
-|:--------------------------------:|:------------------:|:-----------------------------------------|:-----:|
-| `CODE-OF-CONDUCT`                | :heavy_check_mark: | [CHANGELOG.md](CHANGEDLOG.md)            | [Link]
-(https://keepachangelog.com/) |
-| `CONTRIBUTING`                   | :heavy_check_mark: | [CODE-OF-CONDUCT.md](CODE-OF-CONDUCT.md) | [Link]
-(https://help.github.com/en/articles/adding-a-code-of-conduct-to-your-project/) |
-| `FUNDING`                        | :x:                | -                                        | [Link] 
-(https://help.github.com/en/articles/displaying-a-sponsor-button-in-your-repository) |
-| `issue & pull request templates` | :heavy_check_mark: | [.github](.github)                       | [Link] 
-(https://help.github.com/en/articles/about-issue-and-pull-request-templates/) |
-| `CONTRIBUTING`                   | :heavy_check_mark: | [CONTRIBUTING](CONTRIBUTING.md)          | [Link] 
-(https://help.github.com/en/articles/setting-guidelines-for-repository-contributors/) |
-| `SECURITY`                       | :x:                | -                                        | [Link] 
-(https://help.github.com/en/articles/adding-a-security-policy-to-your-repository) |
-| `SUPPORT`                        | :x:                | -                                        | [Link] 
-(https://help.github.com/en/articles/adding-support-resources-to-your-project/) |
 
 ## Bots
 
