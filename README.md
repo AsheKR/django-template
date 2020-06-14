@@ -6,8 +6,7 @@
 
 <p align="center">
   <a href="#overview">Overview</a> |
-  <a href="#features">Features</a> |
-  <a href="#authors">Authors</a>
+  <a href="#features">Features</a>
 </p>
 
 ## Overview
