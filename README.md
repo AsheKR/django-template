@@ -37,5 +37,3 @@ See [its page](https://probot.github.io/apps/todo/) for further configuration. T
 
 This bot are actually three bots into one. See the central [page](https://probot.github.io/apps/welcome/) for further configuration. There are three variables, each being the message posted by the bot: newIssueWelcomeComment, newPRWelcomeComment, and firstPRMergeComment. You may customize these messages if you wish.
 
-## [Commit Guide](https://github.com/AsheKR/github-message-template)
-
