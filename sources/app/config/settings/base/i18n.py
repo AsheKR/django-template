@@ -1,6 +1,8 @@
 import os
 
-LOCALE_PATHS = (os.path.join(APP_DIR, "config", "locale"),)  # type: ignore
+from config.settings import APP_DIR
+
+LOCALE_PATHS = (os.path.join(APP_DIR, "config", "locale"),)
 
 # https://docs.djangoproject.com/en/dev/ref/settings/#language-code
 LANGUAGE_CODE = "ko-kr"

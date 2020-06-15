@@ -1,14 +1,10 @@
 from os import path
 
 import environ
+from config.settings import ROOT_DIR
 
 env = environ.Env()
 env.read_env(path.join(ROOT_DIR, "env", ".env.local"))
-
-# READ_DOT_ENV_FILE = env.bool('DJANGO_READ_DOT_ENV_FILE', default=True)
-# if READ_DOT_ENV_FILE:
-#     # OS environment variables take precedence over variables from .env
-#     env.read_env(path.join(ROOT_DIR, '.env', 'local'))
 
 # https://docs.djangoproject.com/en/dev/ref/settings/#debug
 DEBUG = env("DEBUG")
