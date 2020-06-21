@@ -1,5 +1,6 @@
 # Django
 # -----------------------------------------
 Django==3.0.7  # https://www.djangoproject.com
+argon2-cffi==20.1.0  # https://pypi.org/project/argon2-cffi/
 django-split-settings==1.0.1  # https://github.com/sobolevn/django-split-settings
 django-environ==0.4.5  # https://github.com/joke2k/django-environ
