@@ -11,6 +11,7 @@ DJANGO_APPS = [
 
 THIRD_PARTY_APPS: List[str] = [
     "rest_framework",
+    "django_filters",
 ]
 
 LOCAL_APPS = ["users.apps.UsersConfig"]
