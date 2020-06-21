@@ -20,6 +20,14 @@ Django Template was designed to start Django project quickly
 - Run test with pytest
 - default integration with [pre-commit](https://github.com/pre-commit/pre-commit) for identifying simple issues before submission to code review
 
+## Setting Environment
+
+### 1. DJANGO_ENV
+
+`DJANGO_ENV` environmental variables to separate Django's environment
+
+The environmental variables set Django environment by referring to the file `env/.env.<DJANGO_ENV>` and the folder `app/config/settings/<DJANGO_ENV>`
+
 ## Update Related Project
 
 ```shell
