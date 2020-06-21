@@ -15,6 +15,11 @@ Django Template was designed to start Django project quickly
 
 ## Features
 
+- [django-split-settings](https://github.com/sobolevn/django-split-settings) for clear setting separation
+- [django-environ](https://github.com/joke2k/django-environ) for managing secret values
+- Run test with pytest
+- default integration with [pre-commit](https://github.com/pre-commit/pre-commit) for identifying simple issues before submission to code review
+
 ## Update Related Project
 
 ```shell
@@ -31,4 +36,3 @@ See [its page](https://probot.github.io/apps/todo/) for further configuration. T
 ### Welcome Bot
 
 This bot are actually three bots into one. See the central [page](https://probot.github.io/apps/welcome/) for further configuration. There are three variables, each being the message posted by the bot: newIssueWelcomeComment, newPRWelcomeComment, and firstPRMergeComment. You may customize these messages if you wish.
-
