@@ -9,7 +9,9 @@ DJANGO_APPS = [
     "django.contrib.staticfiles",
 ]
 
-THIRD_PARTY_APPS: List[str] = []
+THIRD_PARTY_APPS: List[str] = [
+    "rest_framework",
+]
 
 LOCAL_APPS = ["users.apps.UsersConfig"]
 
